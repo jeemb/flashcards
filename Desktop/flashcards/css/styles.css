@@ -6,6 +6,10 @@ h1 {
   display: none;
 }
 
-ul {
-  list-style-type: none;
+#Operatorsdef {
+  display: none;
+}
+
+#Vocabdef {
+  display: none;
 }
